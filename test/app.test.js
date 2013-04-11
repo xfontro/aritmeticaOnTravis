@@ -9,7 +9,7 @@ describe('Integration tests for app.js :', function() {
 		var agent = superagent.agent();
 
 	    before(function (done) {
-			var expressapp = require('../app.js');
+			//var expressapp = require('../app.js');
 	        done();
 	    });
 

@@ -19,6 +19,7 @@
   },
   "bundleDependencies": [],
   "scripts": {  
-     "start": "node ./app.js"
+     "start": "node ./app.js",
+     "test": "mocha test -R spec -t 3000"
   }
 }
