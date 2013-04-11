@@ -1,0 +1,24 @@
+{
+  "name": "Aritmetic-TestedMocha",
+  "version": "0.0.3",
+  "description": "Aritmetic Sample with tests [Mocha]",
+  "keywords": [
+    "Node.js",
+    "application",
+    "aritmetic",
+    "mocha"
+  ],
+  "author": {
+    "name": "Xavier F"
+  },
+  "dependencies": {
+  	"express": "*",
+    "mocha": "*",
+    "chai": "*",
+    "superagent": "*"
+  },
+  "bundleDependencies": [],
+  "scripts": {  
+     "start": "node ./app.js"
+  }
+}
