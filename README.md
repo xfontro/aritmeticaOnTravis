@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/xfontroSF/aritmeticaOnTravis.png?branch=master)](https://travis-ci.org/xfontroSF/aritmeticaOnTravis)
+
 #Mocha guideline
 
 Basic aritmetic operations server created with node.js & Express. Tested using Mocha, Chai and SuperAgent.
