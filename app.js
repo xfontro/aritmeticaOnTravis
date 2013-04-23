@@ -85,3 +85,4 @@ app.all("/*", function (request, response) {
 
 app.listen(port);
 console.log("Server has started at port: " + port);
+console.log("go travis go!");
