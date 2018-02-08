@@ -23,7 +23,7 @@ The tests are in the folder "test".
 To run the tests: "mocha test" or just "make test"
 
 ##Modules
-[Mocha](http://visionmedia.github.com/mocha/)
+[Mocha](http://mochajs.org/)
 
 [Chai](http://chaijs.com/api/bdd/)
 
